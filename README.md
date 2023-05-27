@@ -8,3 +8,4 @@ The docker image can be run using the below command:
 
 ```
 docker run --name logstash-metricsbeat -p 5044:5044 yogeshraj292/logstash-metricbeat
+```
